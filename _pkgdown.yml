@@ -1,0 +1,9 @@
+url: https://ramnathv.github.io/test5
+
+template:
+  params:
+    bootswatch: cosmo
+navbar:
+  type: inverse
+development:
+  mode: devel
